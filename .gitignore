@@ -24,7 +24,6 @@ test/tmp
 test/version_tmp
 tmp
 test.html
-*.tsv
 
 # Ignore RubyMine generated files
 .idea
